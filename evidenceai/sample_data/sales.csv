@@ -1,0 +1,10 @@
+region,segment,revenue,orders
+North,Enterprise,1500,3
+South,Small Business,800,2
+North,Small Business,650,2
+West,Enterprise,1100,2
+South,Enterprise,900,2
+West,Small Business,400,1
+North,Enterprise,1200,3
+South,Small Business,720,2
+West,Enterprise,1350,3
